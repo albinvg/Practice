@@ -25,3 +25,6 @@ def fn_Largest_substring(str_s):
 
 ## print the length of largest susbstring and the corresponding substring
 print (fn_Largest_substring(str_s))
+
+
+## Alternate solution https://www.youtube.com/watch?v=wiGpQwVHdE0
