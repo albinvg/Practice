@@ -24,3 +24,7 @@ def searchInsert(self, list1, target):
             return (middle)
 
     return(left)
+
+
+
+#Alternate solution https://www.youtube.com/watch?v=K-RYzDZkzCI
